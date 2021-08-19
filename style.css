@@ -1,0 +1,26 @@
+body{
+    background-color:aqua;
+    font-family:cursive;
+}
+.main_div,.main_div1{
+border-style: solid;
+border-color: black;
+}
+.copy_right_footer{
+border-style: solid;
+position: fixed;
+bottom: 0;
+text-align: center;
+background-color: navy;
+line-height: 3;
+width: 100%;
+}
+
+.footer_div img{
+width: 150px;
+height: 150px;
+}
+.header_div img{
+    width: 150px;
+    height: 150px;
+}
